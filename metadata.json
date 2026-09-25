@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix ResQRoute",
+  "description": "Role-based risk-aware road navigation for daily commuting and automated emergency resource routing across the North Eastern Region of India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
